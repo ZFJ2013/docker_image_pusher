@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nginx
-diygod/rsshub
-browserless/chrome
-redis:alpine
+#nginx
+#diygod/rsshub
+#browserless/chrome
+#redis:alpine
+apache/dolphinscheduler-standalone-server:3.2.1
