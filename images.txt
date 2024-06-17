@@ -8,4 +8,5 @@
 #diygod/rsshub
 #browserless/chrome
 #redis:alpine
-apache/dolphinscheduler-standalone-server:3.2.1
+#apache/dolphinscheduler-standalone-server:3.2.1
+diygod/rsshub:latest
