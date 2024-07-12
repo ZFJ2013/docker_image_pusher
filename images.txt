@@ -10,4 +10,5 @@
 #redis:alpine
 #apache/dolphinscheduler-standalone-server:3.2.1
 #diygod/rsshub:latest
-mintplexlabs/anythingllm:latest
+#mintplexlabs/anythingllm:latest
+ollama/ollama:0.2.2
