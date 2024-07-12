@@ -9,4 +9,5 @@
 #browserless/chrome
 #redis:alpine
 #apache/dolphinscheduler-standalone-server:3.2.1
-diygod/rsshub:latest
+#diygod/rsshub:latest
+mintplexlabs/anythingllm:latest
