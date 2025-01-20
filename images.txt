@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis:latest
 #programzmh/chatnio
-debian:10
+ubuntu:20.04
