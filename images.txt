@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis:latest
 #programzmh/chatnio
-bigtop/deploy:ubuntu-14.04
+debian:10
