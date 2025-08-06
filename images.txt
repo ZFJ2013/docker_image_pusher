@@ -7,5 +7,4 @@
 #redis:latest
 #programzmh/chatnio
 #ubuntu:22.04
-#mysql:5.7
 diygod/rsshub
