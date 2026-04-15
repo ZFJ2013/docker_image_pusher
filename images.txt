@@ -8,3 +8,4 @@
 #programzmh/chatnio
 #ubuntu:22.04
 diygod/rsshub
+ghcr.io/ourongxing/newsnow
