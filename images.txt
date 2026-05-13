@@ -9,5 +9,5 @@
 #ubuntu:22.04
 diygod/rsshub
 ghcr.io/ourongxing/newsnow
-bitnami/kafka:latest
+bitnami/kafka
 python:3.11-slim
