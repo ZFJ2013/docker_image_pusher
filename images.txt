@@ -7,8 +7,8 @@
 #redis:latest
 #programzmh/chatnio
 #ubuntu:22.04
-diygod/rsshub
-ghcr.io/ourongxing/newsnow
-apache/kafka:latest
-python:3.11-slim
+#diygod/rsshub
+#ghcr.io/ourongxing/newsnow
+#apache/kafka:latest
+#python:3.11-slim
 
