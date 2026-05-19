@@ -11,4 +11,4 @@
 #ghcr.io/ourongxing/newsnow
 #apache/kafka:latest
 #python:3.11-slim
-
+alpine:latest
