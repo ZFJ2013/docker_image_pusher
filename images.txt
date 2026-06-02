@@ -7,8 +7,11 @@
 #redis:latest
 #programzmh/chatnio
 #ubuntu:22.04
-diygod/rsshub
+#diygod/rsshub
 #ghcr.io/ourongxing/newsnow
 #apache/kafka:latest
 #python:3.11-slim
 #alpine:latest
+node:24-bookworm
+debian:bookworm-slim
+node:24-bookworm-slim
