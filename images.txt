@@ -15,3 +15,4 @@
 node:24-bookworm
 debian:bookworm-slim
 node:24-bookworm-slim
+mcr.microsoft.com/playwright:v1.61.0-noble
