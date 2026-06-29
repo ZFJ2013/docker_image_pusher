@@ -12,7 +12,7 @@
 #apache/kafka:latest
 #python:3.11-slim
 #alpine:latest
-node:24-bookworm
-debian:bookworm-slim
-node:24-bookworm-slim
+#node:24-bookworm
+#debian:bookworm-slim
+#node:24-bookworm-slim
 mcr.microsoft.com/playwright:v1.61.0-noble
